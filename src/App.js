@@ -1,5 +1,5 @@
 import React from "react";
-import styles from './App.css'
+import './App.css'
 import Die from "./Die";
 import { v4 as uuidv4 } from 'uuid'
 import Confetti from "react-confetti";
